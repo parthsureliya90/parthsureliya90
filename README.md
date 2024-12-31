@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthsureliya90&theme=radical" alt="parthsureliya90" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel **
-- 🌱 I’m currently learning **React Native, Angular, GO lang**
-- 💬 Ask me about **Laravel, Core PHP, Bootstrap**
+- 🔭 I’m currently working on **Django**
+- 🌱 I’m currently learning **GO lang**
+- 💬 Ask me about **Python, Django, Flask,  Laravel, Core PHP, Bootstrap**
 - 📫 How to reach me **parthsureliya@gmail.com**
 - 👨‍💻 All of my projects are available at **parthsureliya.in**
 
